@@ -30,8 +30,8 @@ To enable it:
 <!-- Connect With Me Section -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/yasiru-maduranga-268395313" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasirumadhuranga" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/yasiru-maduranga-268395313/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashen-lakshitha" height="30" width="40" />
   </a>
  
 </p>
