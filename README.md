@@ -13,7 +13,7 @@ To enable it:
 
 <h1 align="center">Hi 😊, I'm I'm Yasiru Madhuranga</h1>
 <p align="center">
-  🚀 A Frontend Developer and UI/UX Designer from Sri Lanka
+  🚀 A Full Stack Developer and UI/UX Designer from Sri Lanka
 </p>
 
 ---
