@@ -19,8 +19,8 @@ To enable it:
 ---
 
 <!-- About Me Section -->
-- 👀 &nbsp;I’m interested in **Front End Development & UI/UX Designing**
-- 🌱 &nbsp;Currently learning **React js**
+- 👀 &nbsp;I’m interested in **Web Development & UI/UX Designing**
+- 🌱 &nbsp;Currently learning **React js,Next js**
 - 💬 &nbsp;Ask me about **React js**
 - 🤝 &nbsp;I’m looking to collaborate on **Open Source Projects**
 - ⚡ &nbsp;Fun fact: I love solving algorithmic challenges and learning new tech!
